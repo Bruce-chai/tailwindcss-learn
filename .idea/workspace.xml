@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb19bd3f-1912-44b1-b2dc-c2eedc6376d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/styles.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/tailwind.config.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1kzYhyBYwnd9euRuoB4Gp45o0Ss" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\ninjafood\public\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\ninjafood\public" />
+      <recent name="D:\www\ninjafood" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb19bd3f-1912-44b1-b2dc-c2eedc6376d2" name="Default Changelist" comment="" />
+      <created>1606705009565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606705009565</updated>
+      <workItem from="1606705010671" duration="277000" />
+      <workItem from="1606705301658" duration="3357000" />
+      <workItem from="1606708678944" duration="15097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="411" y="177" key="SettingsEditor" timestamp="1606717734556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="411" y="177" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606717734556" />
+    <state x="931" y="245" key="run.anything.popup" timestamp="1606718313498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="931" y="245" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606718313498" />
+    <state x="968" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1606717781002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="968" y="245" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606717781002" />
+  </component>
+</project>
